@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE dblp SYSTEM "dblp-2017-03-29.dtd">
+<dblp>
+
+<article mdate="2017-06-09" key="persons/CasperGGGHLR12">
+<author orcid="0000-0002-1163-8988">Markus Casper</author>
+<author>Gayane Grigoryan</author>
+<author>Oliver Gronz</author>
+<author>Oliver Gutjahr</author>
+<author orcid="0000-0002-4831-9016">G&uuml;nther Heinemann</author>
+<author>Rita Ley</author>
+<author>Andreas Rock</author>
+<title>Analysis of projected hydrological behavior of catchments based on signature indices</title>
+<journal>Hydrology and Earth System Sciences</journal>
+<volume>16</volume>
+<pages>409-421</pages>
+<year>2012</year>
+<ee>https://doi.org/10.5194/hess-16-409-2012</ee>
+</article>
+
+<www mdate="2005-10-06" key="persons/Ley2003">
+<author>Michael Ley</author>
+<title>ACM SIGMOD Contribution Award 2003 Acceptance Speech</title>
+<year>2003</year>
+<url>http://www.informatik.uni-trier.de/~ley/db/about/contributionaward03.html</url>
+</www>
+
+<article mdate="2017-06-09" key="persons/LeyCHM11">
+<author>Rita Ley</author>
+<author orcid="0000-0002-1163-8988">Markus Casper</author>
+<author>Hugo Hellebrand</author>
+<author>Ralf Merz</author>
+<title>Catchment classification by runoff behaviour with self-organizing maps (SOM)</title>
+<journal>Hydrology and Earth System Sciences</journal>
+<volume>15</volume>
+<pages>2947-2962</pages>
+<year>2011</year>
+<ee>https://doi.org/10.5194/hess-15-2947-2011</ee>
+</article>
+
+<incollection mdate="2017-07-12" key="reference/algo/Makinen08" publtype="encyclopedia">
+<author>Veli M&auml;kinen</author>
+<title>Compressed Suffix Array.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-30162-4_82</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Makinen08</url>
+</incollection>
+
+<incollection mdate="2017-07-12" key="reference/algo/Komusiewicz16" publtype="encyclopedia">
+<author>Christian Komusiewicz</author>
+<title>Kernelization, Partially Polynomial Kernels.</title>
+<pages>1028-1031</pages>
+<year>2016</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>https://doi.org/10.1007/978-1-4939-2864-4_530</ee>
+<url>db/reference/algo/algo2016.html#Komusiewicz16</url>
+</incollection>
+
+<incollection mdate="2017-07-12" key="reference/algo/Huang08a" publtype="encyclopedia">
+<author>Li-Sha Huang</author>
+<title>General Equilibrium.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-30162-4_160</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Huang08a</url>
+</incollection>
+
+<incollection mdate="2017-07-12" key="reference/algo/Korula16" publtype="encyclopedia">
+<author>Nitish Korula</author>
+<title>Orienteering Problems.</title>
+<pages>1481-1484</pages>
+<year>2016</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>https://doi.org/10.1007/978-1-4939-2864-4_540</ee>
+<url>db/reference/algo/algo2016.html#Korula16</url>
+</incollection>
+
+<incollection mdate="2017-07-12" key="reference/algo/KucherovS16" publtype="encyclopedia">
+<author>Gregory Kucherov</author>
+<author>Dina Sokol</author>
+<title>Approximate Tandem Repeats.</title>
+<pages>106-109</pages>
+<year>2016</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>https://doi.org/10.1007/978-1-4939-2864-4_24</ee>
+<url>db/reference/algo/algo2016.html#KucherovS16</url>
+</incollection>
+
+<incollection mdate="2017-07-12" key="reference/algo/Munagala16" publtype="encyclopedia">
+<author>Kamesh Munagala</author>
+<title>Local Search for K-medians and Facility Location.</title>
+<pages>1139-1143</pages>
+<year>2016</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>https://doi.org/10.1007/978-1-4939-2864-4_212</ee>
+<url>db/reference/algo/algo2016.html#Munagala16</url>
+</incollection>
+</dblp>
