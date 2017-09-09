@@ -8,7 +8,7 @@ Run program with parameters:
 
 * -y = start year (required)
 * -t = end year (optional)
-* -f = path to dblp xml file (optional, default is ./dblp.xml
+* -f = path to dblp xml file (optional, default is ./dblp.xml)
 
 Created network will contain authors published between start and end year. Edges between authors indicates co-authors.
 
@@ -27,7 +27,7 @@ Output contains two files:
 
 ## DBLP data
 
-This service provides open bibliographic information on major computer science journals and proceedings.
+"This service provides open bibliographic information on major computer science journals and proceedings." ([more](http://dblp.uni-trier.de))
 
 You can download XML file from http://dblp.dagstuhl.de/xml/release/. With xml file there must be downloaded .dtd file too.
 
