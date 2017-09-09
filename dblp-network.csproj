@@ -45,6 +45,7 @@
     <None Include="example\dblp-test.xml" />
     <None Include="example\graph.csv" />
     <None Include="example\nodes.csv" />
+    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="example\" />
